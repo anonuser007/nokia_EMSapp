@@ -1,3 +1,9 @@
+Change log 1.2
+
+- In-app new build-updates through github repo(installing to be done manually)
+- Some Bug fixes
+- Webview initially scaled to 1.0
+
 Change log 1.1
 
 - Implemented fingerprint login
@@ -9,3 +15,8 @@ Change log 1.1
 - Changed version
 - Drastically reduced app size
 - Made app slightly difficult to decompile
+
+
+Changelog 1.0
+
+- App created
