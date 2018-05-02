@@ -3,6 +3,8 @@ Change log 1.2
 - In-app new build-updates through github repo(installing to be done manually)
 - Some Bug fixes
 - Webview initially scaled to 1.0
+- Changed version code
+- implemented proguard
 
 Change log 1.1
 
