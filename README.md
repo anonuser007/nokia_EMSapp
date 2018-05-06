@@ -1,3 +1,10 @@
+Change log 1.3
+
+- Very Important update!
+- QR code scanning functionality
+- Fixed all known bugs
+- Version changed
+
 Change log 1.2
 
 - In-app new build-updates through github repo(installing to be done manually)
