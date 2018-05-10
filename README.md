@@ -2,7 +2,6 @@ Changelog 1.4
 
 - changed version code
 - update page login activity activity restart fix
-- Improved in-app update functionality
 
 Change log 1.3
 
