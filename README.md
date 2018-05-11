@@ -1,3 +1,20 @@
+Changelog 1.5
+
+- Massive redesign & UI enchancements
+- Added Alert dialogs
+- Several bugs squashed
+- Added "open download folder" button
+- QR Scanning now supports full layout 1080p resolution
+- Finger screen activity bug fixes
+- Implemented proguard security feature
+- Optimized code & related changes!
+- Changed version code!
+
+Insights into the next update:
+
+- Nokia news section coming soon!
+
+
 Changelog 1.4
 
 - changed version code
