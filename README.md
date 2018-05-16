@@ -1,6 +1,18 @@
+Changelog 1.6
+
+- Nokia related new section
+- Login activity redesign & UI enhancements
+- password visibility - hide/show
+- remove reset added x
+- Finger screen activity UI
+- Optimized code
+- Changed version code
+- Changed info activity
+
+
 Changelog 1.5
 
-- Massive redesign & UI enchancements
+- Massive redesign & UI enhancements
 - Added Alert dialogs
 - Several bugs squashed
 - Added "open download folder" button
