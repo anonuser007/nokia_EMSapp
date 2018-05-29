@@ -1,6 +1,18 @@
+Changelog 1.7
+
+- Removed fingerprint login
+- Added additional auth Android phone security
+- Login failed red button
+- Login success green button
+- UI changes in function activity
+- Working progress dialog while loading webview
+- Fixed vulnerabilities in code
+- bundled play services fixed
+- changed vercode
+
 Changelog 1.6
 
-- Nokia related new section
+- Nokia related news section
 - Login activity redesign & UI enhancements
 - password visibility - hide/show
 - remove reset added x
