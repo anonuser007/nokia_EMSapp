@@ -1,3 +1,23 @@
+Changelog 1.8
+
+- Fixed all warnings now app is 75% faster
+- Massive UI redesign
+- Removed info activity
+- Moved qr scan  to login activity
+- added dev info button in login activity
+- added settings button to open app info
+- changed colours of all buttons
+- webview in news activity now full screen
+- update activity changed 
+- added download release button
+- Changed toast messages
+- Added non cancellable alertdialogs
+- qr scan activity now shows scanned info before opening in browser
+- added few textviews here and there
+- Changed hardcored strings to string resource
+- Added nokia logo in login activity
+- webview fixed in sensorActivity
+
 Changelog 1.7
 
 - Removed fingerprint login
