@@ -1,6 +1,7 @@
 Changelog 1.8
 
 - Fixed all warnings now app is 75% faster
+- App now works only on Android 7.0+
 - Massive UI redesign
 - Removed info activity
 - Moved qr scan  to login activity
