@@ -1,3 +1,6 @@
+End of Support!
+Final version 1.8
+
 Changelog 1.8
 
 - Fixed all warnings now app is 75% faster
